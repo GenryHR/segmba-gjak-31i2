@@ -16,6 +16,6 @@ export interface Task {
 export type TabType = 'today' | 'tomorrow' | 'week' | 'someday' | 'all' | 'completed' | 'garden';
 
 export interface AppSettings {
-  theme: 'light' | 'dark';
+  theme: 'light' | 'dark' | 'fantasy' | 'nature' | 'beach' | 'arthouse';
   language: 'en' | 'ru';
 }
