@@ -37,23 +37,7 @@ export const translations = {
     noTasks: 'No tasks yet',
     addFirstTask: 'Add your first task to start growing!',
     tasksCompleted: 'tasks completed',
-    growthMessage: 'Your garden is growing! 🌱',
-    emptyCategory: 'Here is empty for now',
-    tapToAdd: 'Tap to add a task',
-    themes: 'Themes',
-    fantasy: 'Fantasy',
-    nature: 'Nature',
-    beach: 'Beach',
-    arthouse: 'Arthouse',
-    music: 'Music',
-    playMusic: 'Play LoFi music',
-    pauseMusic: 'Pause music',
-    onboardingTitle: 'Welcome to GrowTasks!',
-    onboardingStep1: 'Tap any category to add a new task',
-    onboardingStep2: 'Complete tasks to grow your beautiful garden',
-    onboardingStep3: 'Enjoy the peaceful atmosphere with music',
-    getStarted: 'Get Started',
-    skip: 'Skip'
+    growthMessage: 'Your garden is growing! 🌱'
   },
   ru: {
     appName: 'GrowTasks',
@@ -93,23 +77,7 @@ export const translations = {
     noTasks: 'Пока нет задач',
     addFirstTask: 'Добавьте первую задачу, чтобы начать расти!',
     tasksCompleted: 'задач выполнено',
-    growthMessage: 'Ваш сад растёт! 🌱',
-    emptyCategory: 'Здесь пока пусто',
-    tapToAdd: 'Нажмите, чтобы добавить задачу',
-    themes: 'Темы',
-    fantasy: 'Фэнтези',
-    nature: 'Природа',
-    beach: 'Пляж',
-    arthouse: 'Арт-хаус',
-    music: 'Музыка',
-    playMusic: 'Включить LoFi музыку',
-    pauseMusic: 'Остановить музыку',
-    onboardingTitle: 'Добро пожаловать в GrowTasks!',
-    onboardingStep1: 'Нажмите на любую категорию, чтобы добавить задачу',
-    onboardingStep2: 'Выполняйте задачи, чтобы вырастить красивый сад',
-    onboardingStep3: 'Наслаждайтесь спокойной атмосферой с музыкой',
-    getStarted: 'Начать',
-    skip: 'Пропустить'
+    growthMessage: 'Ваш сад растёт! 🌱'
   }
 };
 
